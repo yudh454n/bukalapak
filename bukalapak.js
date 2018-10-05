@@ -49,7 +49,7 @@ request(options, function (error, response, body) {
 }
 ///////EDIT DISINI AJA COK JUMLAHNYA//////
 
-var jumlah = 1000;
+var jumlah = 10000;
 
 ///////MAX ISI 10 AJA JANGAN MARUK!//////
 
