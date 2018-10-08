@@ -49,7 +49,7 @@ request(options, function (error, response, body) {
 }
 ///////EDIT DISINI AJA COK JUMLAHNYA//////
 
-var jumlah = 10000;
+var jumlah = 1000;
 
 ///////MAX ISI 10 AJA JANGAN MARUK!//////
 
@@ -61,6 +61,6 @@ var kode = randomstring.generate({
   capitalization: 'uppercase'
 });
 
-gas("BLMOIV"+kode);
+gas("BLMOI"+kode);
 //delay(10000);
 }
